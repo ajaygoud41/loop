@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3AE1-5CA1
+
+ Directory of C:\Users\ajayg\OneDrive\Desktop\design1
+
+18-12-2022  00:19    <DIR>          .
+18-12-2022  00:11    <DIR>          ..
+18-12-2022  00:18               351 amul.txt
+18-12-2022  00:19                 0 arun.txt
+               2 File(s)            351 bytes
+               2 Dir(s)  432,266,235,904 bytes free
